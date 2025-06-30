@@ -1,0 +1,13 @@
+#for fastapi app
+# fastapi==0.115.4
+# pydantic==2.9.2
+# firebase-admin==6.5.0
+# uvicorn==0.32.0
+# gunicorn
+
+#for flask app
+flask==3.0.3
+flask-cors==5.0.0
+pydantic==2.9.2
+firebase-admin==6.5.0
+gunicorn
